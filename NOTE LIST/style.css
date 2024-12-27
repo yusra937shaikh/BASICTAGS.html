@@ -1,0 +1,10 @@
+body {
+    font-family: sans-serif;
+}
+li {
+    cursor: pointer; /* Hand icon on hover */
+}
+.completed {
+    text-decoration: line-through; /* Line through completed tasks */
+    color: gray;
+}
